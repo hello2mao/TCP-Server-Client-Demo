@@ -51,5 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# macos
+.DS_Store
+
 # cmake
 build
